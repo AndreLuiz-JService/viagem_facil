@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "611126630760",
+    "project_id": "projetoappviagens",
+    "storage_bucket": "projetoappviagens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611126630760:android:af7024963ceebb89739edd",
+        "android_client_info": {
+          "package_name": "com.example.viagem_facil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611126630760-f9ah2qkr8qvkaaehj3lpg686177bi648.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.viagem_facil",
+            "certificate_hash": "09141816d8578c9d98c8f2249a04f1e6366dea86"
+          }
+        },
+        {
+          "client_id": "611126630760-evi41dvmuut1i382futn47np7ivns30u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUawgG6qaDvOpW9qX_Hp8RQoknzRy6waU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611126630760-evi41dvmuut1i382futn47np7ivns30u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
